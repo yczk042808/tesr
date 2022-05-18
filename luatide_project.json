@@ -1,0 +1,20 @@
+{
+	"version": "2.4",
+	"projectType": "example",
+	"corePath": "",
+	"libPath": "D:\\Users\\akchan\\AppData\\Roaming\\LuatIDE\\LuatideLib\\Air72XUX_LIB\\V2.4.2\\lib",
+	"moduleModel": "simulator",
+	"appFile": [
+		"luatide_project.json",
+		"main.lua",
+		"music.lua",
+		"test.lua",
+		"testheadset.lua",
+		"testHttp.lua",
+		"testHttpPlayMp3.lua",
+		"testUpdate.lua",
+		"z.wav"
+	],
+	"modulePort": "",
+	"ignore": []
+}
